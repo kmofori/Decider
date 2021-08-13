@@ -1,0 +1,11 @@
+{
+  "name": "decider",
+  "version": "1.0.0",
+  "description": "An application that selects a text at random from a user input ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Km",
+  "license": "ISC"
+}
